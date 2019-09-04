@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1567277944 source:c:\users\aguus\desktop\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567277955 source:c:\users\aguus\desktop\prueba\cuentas.c
+	<stdio.h>
+
+1567278048 c:\users\aguus\desktop\prueba\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1567216415 c:\users\aguus\desktop\prueba\cuentas.c
+
+1567638894 source:c:\users\aguus\desktop\tpbienhecho\cuentas.c
+	<stdio.h>
+
+1567639575 source:c:\users\aguus\desktop\tpbienhecho\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567638636 c:\users\aguus\desktop\tpbienhecho\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
